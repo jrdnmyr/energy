@@ -8,4 +8,4 @@ Repo dedicated to all energy-related work that I have built
 
 2. Oil Site Identification Using Satellite Imagery
    
-   This project uses satellite imagery from Saskatchewan, Canada to differentiate between types of oil production sites.
+   This project uses satellite imagery from Saskatchewan, Canada to determine whether an oil site is tied-in to infrastructure.
